@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Christian Klose
-  avatar: bio-photo.jpg
+  avatar: about/IMG_0519.JPG
   bio: "| DAD² | HUSBAND | FRIEND | TAM@VMware | posts, thoughts, tweets, opinions are always my own"
   email:
   disqus-shortname: my311de
@@ -42,7 +42,7 @@ owner:
   bing-verify:
   github: ChristianKlose
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: christianklose
+  linkedin: ChristianKlose
   xing: christian_klose3
   instagram: #username
   lastfm: #username
