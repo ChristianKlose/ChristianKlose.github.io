@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            my311de
+title:            my311.de
 locale:           de_DE
 url:              https://my311.de
 
@@ -43,7 +43,7 @@ owner:
   github: ChristianKlose
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
-  xing: christianklose
+  xing: christianklose3
   instagram: #username
   lastfm: #username
   tumblr: #username
