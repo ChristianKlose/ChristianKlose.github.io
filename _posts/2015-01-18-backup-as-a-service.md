@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HandsOn: Veeam - Backup-as-a-Service in vRealize Automation
-excerpt: "Last week i prepared a use case for some customer presentations about Backup as a Service using Veeam B&R v8. I know about the Veeam REST API which is available for Version 8 with Veeam Enterprise Manager. I also know about the Powershell implementations but hey - i love VMware so i build solutions in Orchestrator :-) and decided to test drive some use case workflows in vRealize Orchestrator and also bind them to vRealize Automation."
+excerpt: "Backup as a Service using Veeam B&R v8 Veeam REST API in vRealize Orchestrator and vRealize Automation."
 modified: 2015-01-18
 tags: [veeam, handson, automation, orchestrator, rest]
 comments: true
@@ -11,7 +11,6 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-# Overview
 
 Last week i prepared a use case for some customer presentations about Backup as a Service using [Veeam B&R v8](http://www.veeam.com/de/vm-backup-recovery-replication-software.html).
 The main idea behind that is to enable VMware Administrators or Users directly to choose a Backup SLA for their VM without the need to communicate with the Backup team - sorry Backup teams :-) The Backup Team acts as a Service Provider and offers different SLA's which could be used by VMware Admins or Users.

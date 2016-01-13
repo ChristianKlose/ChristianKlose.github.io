@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HandsOn: Docker-as-a-Service in vRealize Automation
-excerpt: "With the availability of Coopto - Docker Plug-in for vRealize Orchestrator in the VMware Solution Exchange (VSX) i wanted to show you how to Create a Service in vRealize Automation Center for Docker Containers."
+excerpt: "With the availability of Coopto i wanted to show you how to Create a Service in vRealize Automation Center for Docker Containers."
 modified: 2015-01-13
 tags: [docker, handson, automation, orchestrator, devops]
 comments: true
@@ -10,6 +10,8 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+
+With the availability of Coopto - Docker Plug-in for vRealize Orchestrator in the VMware Solution Exchange (VSX) i wanted to show you how to Create a Service in vRealize Automation Center for Docker Containers.
 
 # Short Intro
 
