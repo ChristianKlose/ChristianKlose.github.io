@@ -5,12 +5,12 @@ tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: vmware-ready-for-any-container.jpg
+  credit: VMware
+  creditlink: http://www.vmware.com/
 ---
 
-bla bla bla 
+bla bla bla
 ## Minimal Mistakes is all about:
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
