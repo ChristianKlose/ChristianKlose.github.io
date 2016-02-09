@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HandsOn: Docker-as-a-Service in vRealize Automation
+title: HandsOn Docker-as-a-Service in vRealize Automation
 excerpt: "With the availability of Coopto i wanted to show you how to Create a Service in vRealize Automation Center for Docker Containers."
 modified: 2015-01-13
 tags: [docker, handson, automation, orchestrator, devops]

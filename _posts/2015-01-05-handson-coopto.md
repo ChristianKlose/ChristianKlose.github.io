@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HandsOn: Coopto – a Docker Plug-in for VMware vRealize Orchestrator
+title: HandsOn Coopto – a Docker Plug-in for VMware vRealize Orchestrator
 excerpt: "Coopto is a plug-in for VMware’s orchestration engine vRealize Orchestrator."
 modified: 2015-01-05
 tags: [handson, coopto, orchestrator, docker]

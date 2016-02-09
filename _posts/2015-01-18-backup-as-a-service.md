@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HandsOn: Veeam - Backup-as-a-Service in vRealize Automation
+title: HandsOn Veeam - Backup-as-a-Service in vRealize Automation
 excerpt: "Backup as a Service using Veeam B&R v8 Veeam REST API in vRealize Orchestrator and vRealize Automation."
 modified: 2015-01-18
 tags: [veeam, handson, automation, orchestrator, rest]
