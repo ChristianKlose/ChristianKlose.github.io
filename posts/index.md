@@ -1,7 +1,7 @@
 ---
 layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
+title: Alle Blogartikel
+excerpt: "Eine Übersicht aller Blogartikel"
 image:
   feature: sample-image-1.jpg
   credit: WeGraphics
