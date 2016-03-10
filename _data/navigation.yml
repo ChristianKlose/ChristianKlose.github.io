@@ -1,16 +1,19 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
 - title: Blogposts
   url: /posts/
+
+#- title: IoT
+#  url: /iot/
+
+#- title: Automation
+#  url: /automation/
 
 - title: Tags
   url: /tags/
 
-#- title: Theme Setup
-#  url: /theme-setup/
+- title: About
+  url: /about/
 
 - title: vRatPack.com
   url: https://vRatPack.com
