@@ -6,9 +6,9 @@ modified: 22016-03-01
 tags: []
 comments: true
 image:
-  feature: vmware-ready-for-any-container.jpg
-  credit: VMware
-  creditlink: http://www.vmware.com/
+  feature: sample-image-1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 <section id="table-of-contents" class="toc">

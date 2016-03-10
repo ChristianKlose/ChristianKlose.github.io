@@ -4,6 +4,10 @@ title: My private Internet of Things
 excerpt: "My private Internet of Things"
 modified: 2016-03-01
 tags: []
+image:
+  feature: sample-image-1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 <section id="table-of-contents" class="toc">
