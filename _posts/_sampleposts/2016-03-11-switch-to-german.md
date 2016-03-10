@@ -10,7 +10,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Coopto is a plug-in for VMware’s orchestration engine vRealize Orchestrator. It aims to provide full Docker functionality within the central automation component of the VMware stack in order to utilize and combine the power of container technology with virtualization technology. The combination of both can result in an even more powerful and flexible computation stack then possible with just one of the technologies.
+I wanted to 
 
 # Short Intro
 
