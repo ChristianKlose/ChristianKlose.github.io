@@ -10,17 +10,10 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Christian works since nearly 20 years in computer industry. He starts as a System Engineer implementing Citrix, Microsoft and Security Solutions with InfoConcept GmbH. Since the first availability of VMware vMotion he is focused on VMware Products and Solutions. The last ten years working for Fritz & Macziol GmbH as Senior Consultant for VMware Products and Solutions. Technically leading a small team for VMware (and some other) Cloud Automation and Management products since 2013.
+Christian - Jahrgang 77 - arbeitet seit nunmehr 20 Jahren an einer Tastatur - Anfangs noch mit Floppy Disks, dann CDs, ISOs, OVAs und immer mehr mit Containern.
+Die Freude am Programmieren war dabei stetiger Begleiter, wie auch das Interesse an neuen Technologien und besonderen Lösungen.
 
-Since October 2015 he works for VMware as a Technical Account Manager (TAM).
-
-####Here are some of Christian's customer project references:
-
-- [Amadeus IT Group : Cloud around the World](http://www.fum.de/en/competence/references/amadeus-it-group/)
-
-- [FRITZ & MACZIOL provides for major food discounter a new basis for Cloud Offerings](https://translate.google.com/translate?hl=en&sl=de&tl=en&u=http%3A%2F%2Fwww.fum.de%2Fde%2Fservice%2Fblog%2Fkunden-projekte%2Ffritz-macziol-schafft-eine-neue-basis-fuer-cloud-offerings/)
-
-####Other places
+### Hier gibt es mehr Informationen
 
 <div markdown="0"><a href="https://about.me/christian_klose" class="btn btn-info">ABOUT ME</a></div>
 <div markdown="0"><a href="https://vratpack.com" class="btn btn-danger">vRatPack Author</a></div>
